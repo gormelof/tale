@@ -1,17 +1,17 @@
 # Site settings
-title:          After Shift
-description:    "After Shift is a open source community which is created by open source lovers to develop and maintain open source projects."
-baseurl:        "/aftershift"
-url:            "https://gormelof.github.io"
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
 
 # Google Analytics
-#google_analytics: UA—XXXXXXXX-X
+google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Ömer Faruk Görmel
-  url:          https://gormelof.github.io
-  email:        gormelomerfaruk@gmail.com
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
 # Build settings
 markdown:       kramdown
